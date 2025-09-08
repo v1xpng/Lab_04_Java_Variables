@@ -18,7 +18,7 @@ public class JavaVariables
 
             double myLunchCost = 12.50;
             int kidsInFamily = 2;
-            boolean isRaining = "False"
+            boolean isRaining = true;
             double gallonGasPrice = 2.95;
             int favoriteNumber = 3;
             int shoeSize = 10;
