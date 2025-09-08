@@ -16,6 +16,15 @@ public class JavaVariables
             double doubleDifference = 6.50;
             double doubleQuotient = 14.50;
 
+            double myLunchCost = 12.50;
+            int kidsInFamily = 2;
+            boolean isRaining = "False"
+            double gallonGasPrice = 2.95;
+            int favoriteNumber = 3;
+            int shoeSize = 10;
+            int birthMonth = 9;
+            String fullName = "Vix Pavluke";
+
             intSum = intOperandA + intOperandB;
             System.out.println(" The sum using ints of " + intOperandA + "" + intOperandB + " is " + intSum); //Output statement
 
@@ -42,5 +51,7 @@ public class JavaVariables
 
             doubleQuotient = doubleOperandA / doubleOperandB;
             System.out.println(" The quotient using ints of " + intOperandA + "" + intOperandB + " is " + doubleQuotient);
+
+
         }
     }
