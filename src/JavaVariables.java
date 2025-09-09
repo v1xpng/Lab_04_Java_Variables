@@ -51,7 +51,5 @@ public class JavaVariables
 
             doubleQuotient = doubleOperandA / doubleOperandB;
             System.out.println(" The quotient using ints of " + intOperandA + "" + intOperandB + " is " + doubleQuotient);
-
-
         }
     }
